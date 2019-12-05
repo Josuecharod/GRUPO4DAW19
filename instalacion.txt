@@ -1,0 +1,5 @@
+Para la instalacion solo hay que seguir unos sencillos pasos:
+Primero para ejecutar el install, tendremos que acceder a la ruta
+alejandrovega.es.mialias.es/GRUPO4DAW19/app/install.php (Da error pero la ruta es esa)
+Y por ultimo para manejar dicha base de datos tenemos el Model.php que esta en la misma ruta, y deberia tener una interfaz
+para introducir datos, borrar, etc...
