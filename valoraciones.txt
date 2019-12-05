@@ -1,0 +1,2 @@
+Ambos coincidimos en que parecia mucho más complejo y poco intuitivo hasta el momento en el que nos hemos puesto con el proyecto
+ya que es superfacil la subida y bajada y sabes en todo momento cuando alguien ha modificado o subido un archivo.
