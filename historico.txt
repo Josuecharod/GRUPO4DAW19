@@ -1,0 +1,2 @@
+Ya hemos subido los  archivos de la parte  primera y segunda correctamente. Vamos a hacer el desplie del proyecto de GITHUB  
+antes de la tercera parte, por si tenemos alguna complicacion, tener algo subido. Y para ver si es desplegado correctamente.
