@@ -1,8 +1,0 @@
-Hemos repartido el trabajo de la manera mas equitativa, hemos repartido el ejercicio 1 y 2 para cada uno, y el 3 que nos 
-parece más complicado a medias.
-Josué ha creado el repositorio de GITHUB y Alejandro lo he añadido en el apartado de colaboradores para que pueda editar y subir
-su parte del trabajo.
-Para comenzar con el trabajo he introducido los primeros directorios y archivos, como aparecia con el README,
-he realizado un git init, inicializando una carpeta local, he añadido el remote origin para estar conectado a este directorio de GITHUB
-y hice un pull para estar actualizado, posterior a eso he añadido app y web y las he subido todas con push.
-A partir de ahi seguiremos con nuestros ejercicios.
